@@ -13,9 +13,9 @@ In this demo, real time data from one of France's BSS system (Toulouse city) fro
 
 ![Solution](diagrams/solution.jpg)
 
-## Pre-requiesite
+## Pre-requisite
 * curl
-* docker
+* docker and docker-compose
 
 
 ## Steps
