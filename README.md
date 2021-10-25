@@ -194,8 +194,9 @@ In this demo, real time data from one of France's BSS systems' - Toulouse city G
 
 ## References:
 
-1. Confluent Docker Images - https://github.com/confluentinc/cp-all-in-one/tree/6.2.0-post/cp-all-in-one
-2. ksqlDB - https://ksqldb.io/
-3. Talk by Robin Moffat - https://talks.rmoff.net/3RIbSX/apache-kafka-and-ksqldb-in-action-lets-build-a-streaming-data-pipeline
-4. General Bike Feed Specification - https://github.com/NABSA/gbfs
-5. Kibana Maps - https://www.elastic.co/guide/en/kibana/current/maps.html
+1. BigThinkCode Insight - https://www.bigthinkcode.com/insights/streaming-data-pipelines
+2. Confluent Docker Images - https://github.com/confluentinc/cp-all-in-one/tree/6.2.0-post/cp-all-in-one
+3. ksqlDB - https://ksqldb.io/
+4. Talk by Robin Moffat - https://talks.rmoff.net/3RIbSX/apache-kafka-and-ksqldb-in-action-lets-build-a-streaming-data-pipeline
+5. General Bike Feed Specification - https://github.com/NABSA/gbfs
+6. Kibana Maps - https://www.elastic.co/guide/en/kibana/current/maps.html
