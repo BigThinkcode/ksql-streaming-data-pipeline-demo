@@ -7,7 +7,7 @@ To explain BSS briefly – Docking stations are spread across a city. Each docki
 
 Understanding mobility patterns helps BSS operators to device an optimal strategy to make the bikes available during a time of the day at a particular station. And for sudden spikes, BSS operators usually solve the asymmetric demand by repositioning bikes from top destination stations to top origin stations.
 
-In this demo, real time data from one of France's BSS systems' - Toulouse city GBFS<sup>4</sup> feeds is used. Data feeds from the BSS are joined in realtime to form an enriched stream for downstream consumers. More details about the solution approach and components used can be found ![here](https://www.bigthinkcode.com/insights/streaming-data-pipelines).
+In this demo, real time data from one of France's BSS systems' - Toulouse city GBFS<sup>4</sup> feeds is used. Data feeds from the BSS are joined in realtime to form an enriched stream for downstream consumers. More details about the solution approach and components used can be found [here](https://www.bigthinkcode.com/insights/streaming-data-pipelines).
 
 ## Solution Diagram
 
